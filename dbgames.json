@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Jogos de Ação",
+      "foto": "jogo1.PNG",
+      "preco": 350
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Jogos de Aventura",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Jogos Clássicos",
+      "foto": "jogo3.png",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4",
+      "descricao": "Jogos de Esportes",
+      "foto": "jogo4.jpg",
+      "preco": 250
+    },
+    {
+      "id": 5,
+      "produto": "Jogo 5",
+      "descricao": "Jogo do Ano",
+      "foto": "jogo5.png",
+      "preco": 300
+    },
+    {
+      "id": 6,
+      "produto": "Jogo 6",
+      "descricao": "Jogos em Pré-Venda",
+      "foto": "jogo6.jpg",
+      "preco": 450
+    }
+  ]
+}
